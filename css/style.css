@@ -7,6 +7,58 @@ h2{
     color: rebeccapurple;
 }
 p{
-    color: aqua;
-    background-color: black;
+    color: black;
+}
+.t_center{
+    text-align: center;
+    color: blueviolet;
+}
+.t_right{
+    text-align: right;
+    color: green;
+}
+.t_uppercase{
+    text-transform: uppercase;
+    color: red;
+    text-decoration: underline;
+}
+.t_lowercase{
+    text-transform: lowercase;
+    color: blue;
+    text-decoration: overline;
+}
+.t_capitalize{
+    text-transform: capitalize;
+    color: green;
+    text-decoration: line-through;
+}
+.f_size{
+    font-size: 60px;
+}
+.t_style{
+    text-decoration: overline line-through underline;
+}
+.t_height{
+    line-height: 30px;
+}
+.t_indent{
+    text-indent: 150px;
+}
+.w_spacing{
+    word-spacing: 60px;
+}
+.l_spacing{
+ letter-spacing: 40px;
+}
+.t_shadow{
+    font-size: 80px;
+    text-align: center;
+    color: red;
+    text-shadow: 4px 5px 6px black;
+}
+.t_shadow1{
+    font-size: 80px;
+    text-align: center;
+    color: green;
+    text-shadow: 6px 7px 6px rgb(73, 97, 26);
 }
